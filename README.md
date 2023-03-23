@@ -1,4 +1,4 @@
-# leran_english
+# learn_english
 For 1337 Team Graduation Project
 
 - Setup database connection in Config.php file
